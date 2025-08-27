@@ -24,5 +24,18 @@
         "D4:1E:31:38:CF:E6:C8:60:F1:B5:7C:03:54:2D:10:C4:FC:BD:68:46:38:36:D6:24:8C:2D:B5:C7:7E:6A:2A:18"
       ]
     }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.nuc.philpost",
+      "sha256_cert_fingerprints": [
+        "0F:54:B7:7F:81:AF:7B:F4:C7:D7:3D:F4:0C:39:FD:44:37:3B:D7:78:49:83:73:10:17:A3:14:8A:F6:7C:71:6D"
+      ]
+    }
   }
 ]
