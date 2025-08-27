@@ -11,5 +11,18 @@
         "0F:D2:BD:60:89:F0:49:A4:2A:F8:A2:6B:8A:A0:2D:25:DC:2B:66:BB:96:B1:E6:79:08:15:87:B4:6D:23:66:BE"
       ]
     }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.nuc.interparcel",
+      "sha256_cert_fingerprints": [
+        "D4:1E:31:38:CF:E6:C8:60:F1:B5:7C:03:54:2D:10:C4:FC:BD:68:46:38:36:D6:24:8C:2D:B5:C7:7E:6A:2A:18"
+      ]
+    }
   }
 ]
