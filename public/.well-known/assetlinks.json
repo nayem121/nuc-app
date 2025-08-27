@@ -37,5 +37,18 @@
         "0F:54:B7:7F:81:AF:7B:F4:C7:D7:3D:F4:0C:39:FD:44:37:3B:D7:78:49:83:73:10:17:A3:14:8A:F6:7C:71:6D"
       ]
     }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.nuc.sundarban",
+      "sha256_cert_fingerprints": [
+        "CB:8F:E8:BC:57:D1:59:1F:70:FA:D4:BF:F9:05:3A:7E:3E:37:17:2F:7B:AF:75:FB:7B:2E:39:28:A6:D6:EA:FE"
+      ]
+    }
   }
 ]
