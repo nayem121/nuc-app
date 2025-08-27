@@ -1,0 +1,23 @@
+# Youth Empowerment Center App - Robots.txt
+User-agent: *
+Allow: /
+
+# Block unnecessary paths
+Disallow: /search
+Disallow: /archive
+
+# Important app support pages (explicitly allowed)
+Allow: /support
+Allow: /terms
+Allow: /contact
+Allow: /privacy
+
+Sitemap: https://nuc-app.vercel.app/sitemap.xml
+
+# Extra (Play Store developer + apps)
+Sitemap: https://play.google.com/store/apps/dev?id=4867051574317379371
+Sitemap: https://play.google.com/store/apps/details?id=com.nuc.sundarban
+Sitemap: https://play.google.com/store/apps/details?id=com.nuc.philpost
+Sitemap: https://play.google.com/store/apps/details?id=com.nuc.interparcel
+Sitemap: https://play.google.com/store/apps/details?id=com.nuc.tforce
+Sitemap: https://play.google.com/store/apps/details?id=com.azad241.ABF
