@@ -8,7 +8,7 @@ const apps = [
   {
     id: "com.nuc.sundarban",
     name: "Sundarban Courier Service Tracking App",
-    description: "Explore the beauty and wildlife of the Sundarban mangrove forests with our comprehensive guide app.",
+    description: "Sunderban Courier service trackng app, Sundarban Courier Service Pvt LTD is a First Bangladeshi Courier Service Provider",
     category: "Business",
     features: ["Package Tracking", "Real-time Updates", "Delivery Notifications", "History Log"],
     playStoreUrl: "https://play.google.com/store/apps/details?id=com.nuc.sundarban",
